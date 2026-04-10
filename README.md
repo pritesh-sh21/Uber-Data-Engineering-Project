@@ -6,4 +6,6 @@
 ![Project Architecture](https://github.com/pritesh-sh21/Uber-Data-Engineering-Project/blob/main/architecture.png)
 
 
+https://github.com/pritesh-sh21/Uber-Data-Engineering-Project/blob/main/Uber_Project.svg
+
 
