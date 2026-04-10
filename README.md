@@ -99,8 +99,7 @@ git clone https://github.com/pritesh-sh21/Uber-Data-Engineering-Project
 # Configure Azure resources (Event Hub, ADLS, ADF)
 
 # Run pipelines step-by-step
-
-)
+```
 
 
 
