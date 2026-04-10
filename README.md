@@ -54,7 +54,11 @@ It mimics how companies like Uber process continuous event streams to enable **r
 
 ---
 
+
 ## 📊 Data Pipeline Design
+
+![Flow](Uber_Project.svg)
+
 
 ### 🔹 Bronze Layer
 - Raw streaming + batch data
