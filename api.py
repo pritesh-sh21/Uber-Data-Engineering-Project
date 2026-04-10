@@ -16,7 +16,3 @@ def book_ride(request: Request):
     result = send_to_event_hub(ride)
     return templates.TemplateResponse("confirmation.html", {"request": request})
 
-
-if __name__ == "__main__":
-    import uvicorn
-    uvicorn.run(app, host="0.0.0.0", port=8000)
