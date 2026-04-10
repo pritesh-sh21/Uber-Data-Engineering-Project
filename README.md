@@ -57,9 +57,6 @@ It mimics how companies like Uber process continuous event streams to enable **r
 
 ## 📊 Data Pipeline Design
 
-![Flow](Uber_Project.svg)
-
-
 ### 🔹 Bronze Layer
 - Raw streaming + batch data
 - Exact replica of source data
@@ -103,12 +100,6 @@ git clone https://github.com/pritesh-sh21/Uber-Data-Engineering-Project
 
 # Run pipelines step-by-step
 
-
-
-![Project Architecture](https://github.com/pritesh-sh21/Uber-Data-Engineering-Project/blob/main/architecture.png)
-
-
-![Project Flow](https://github.com/pritesh-sh21/Uber-Data-Engineering-Project/blob/main/Uber_Project.svg
 )
 
 
